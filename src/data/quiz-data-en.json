@@ -1,0 +1,58 @@
+[
+    {
+      "question": "Which of the following cities served as capitals of Sri Lanka at different points in history?",
+      "answers": [
+        "Anuradhapura, the ancient capital of Sri Lanka for over 1,000 years",
+        "Polonnaruwa, which succeeded Anuradhapura and became the second major ancient capital",
+        "Kandy, known for being the last kingdom before British colonization",
+        "Colombo, the current commercial capital of Sri Lanka",
+        "Galle, a historical city known for its Dutch Fort but never a capital"
+      ],
+      "type": "multi"
+    },
+    {
+      "question": "Which of the following is an official language of Sri Lanka?",
+      "answers": [
+        "Sinhala, spoken by the majority of the population and recognized as an official language",
+        "Tamil, widely spoken in the Northern and Eastern provinces and also an official language",
+        "English, used in official documents and education but not an official language",
+        "Malay, spoken by a small community but not an official language",
+        "Sanskrit, an ancient language with religious significance but not used officially"
+      ],
+      "type": "single"
+    },
+    {
+      "question": "Which festival marks the traditional Sinhala and Tamil New Year in Sri Lanka?",
+      "answers": [
+        "Aluth Avurudu, celebrated in April with customs shared by both Sinhala and Tamil communities",
+        "Vesak, a Buddhist festival commemorating the birth, enlightenment, and death of Lord Buddha",
+        "Christmas, celebrated by the Christian community in Sri Lanka",
+        "Diwali, a Hindu festival of lights celebrated by the Tamil Hindu population",
+        "Ramazan, observed by Sri Lankan Muslims with fasting and prayers"
+      ],
+      "type": "single"
+    },
+    {
+      "question": "Which of the following animals are native or culturally significant to Sri Lanka?",
+      "answers": [
+        "The Sri Lankan elephant, a distinct subspecies known for its cultural and religious importance",
+        "The leopard, especially found in Yala National Park and known for being elusive",
+        "The toque macaque, a monkey species endemic to the island",
+        "The peacock, frequently seen in rural areas and significant in Hindu tradition",
+        "The red panda, which is not found in Sri Lanka but in the Himalayas"
+      ],
+      "type": "single"
+    },
+    {
+      "question": "Which of the following statements describe planets visible from Sri Lanka with the naked eye?",
+      "answers": [
+        "Mars can often be seen as a bright reddish dot in the night sky",
+        "Venus, often referred to as the 'morning star' or 'evening star', is very bright and easily visible",
+        "Jupiter can be seen with the naked eye and appears as a bright white object",
+        "Neptune is not visible without a telescope due to its distance from Earth",
+        "Pluto, now classified as a dwarf planet, is far too dim to be seen without powerful instruments"
+      ],
+      "type": "single"
+    }
+  ]
+  
